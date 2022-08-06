@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JBidlack
-- 👀 I’m interested in ... programming
+- 👀 I’m interested in ... software development
 - 🌱 I’m currently learning ... Computer Science
-- 💞️ I’m looking to collaborate on ... learning C++ and Java
+- 💞️ I’m looking to collaborate on ... learning Java, and C#
 - 📫 How to reach me ...
 
 <!---
